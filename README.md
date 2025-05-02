@@ -130,5 +130,3 @@ docker-compose restart prg.webmarket.backend.webapi
 
 ---
 
-¡Gracias por usar WebMarket! ¡Disfruta construyendo y aprendiendo! ✨
-
