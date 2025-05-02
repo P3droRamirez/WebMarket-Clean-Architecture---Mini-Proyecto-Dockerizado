@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRG.WebMarket.Backend.WebApi.props" />
+</Project>

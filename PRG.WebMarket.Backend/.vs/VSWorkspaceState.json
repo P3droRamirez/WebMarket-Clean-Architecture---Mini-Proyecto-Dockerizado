@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PRG.WebMarket.Backend.Application",
+    "\\PRG.WebMarket.Backend.Application\\Registration",
+    "\\PRG.WebMarket.Backend.Infrastructure",
+    "\\PRG.WebMarket.Backend.Infrastructure\\Registration"
+  ],
+  "SelectedNode": "\\PRG.WebMarket.Backend.Infrastructure\\Registration\\InfrastructureRegistration.cs",
+  "PreviewInSolutionExplorer": false
+}

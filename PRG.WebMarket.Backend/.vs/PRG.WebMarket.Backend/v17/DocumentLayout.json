@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.infrastructure\\registration\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|solutionrelative:prg.webmarket.backend.infrastructure\\registration\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12852543-24D5-4EC6-8AA5-3F0C60B3E878}|PRG.WebMarket.Backend.Application\\PRG.WebMarket.Backend.Application.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.application\\registration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12852543-24D5-4EC6-8AA5-3F0C60B3E878}|PRG.WebMarket.Backend.Application\\PRG.WebMarket.Backend.Application.csproj|solutionrelative:prg.webmarket.backend.application\\registration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12852543-24D5-4EC6-8AA5-3F0C60B3E878}|PRG.WebMarket.Backend.Application\\PRG.WebMarket.Backend.Application.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.application\\features\\producthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12852543-24D5-4EC6-8AA5-3F0C60B3E878}|PRG.WebMarket.Backend.Application\\PRG.WebMarket.Backend.Application.csproj|solutionrelative:prg.webmarket.backend.application\\features\\producthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BC5145-0384-44B1-A32C-AE939593E47D}|PRG.WebMarket.Backend.Business\\PRG.WebMarket.Backend.Business.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BC5145-0384-44B1-A32C-AE939593E47D}|PRG.WebMarket.Backend.Business\\PRG.WebMarket.Backend.Business.csproj|solutionrelative:prg.webmarket.backend.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|solutionrelative:prg.webmarket.backend.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\extensions\\migrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\extensions\\migrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\builders\\swaggerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\builders\\swaggerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.infrastructure\\migrations\\20250430143832_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|solutionrelative:prg.webmarket.backend.infrastructure\\migrations\\20250430143832_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37450389-1492-450F-98E2-78F064EE47A8}|PRG.WebMarket.Backend.Infrastructure\\PRG.WebMarket.Backend.Infrastructure.csproj|solutionrelative:prg.webmarket.backend.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66DCB0-DB6F-4284-B93B-5E36D99DB208}|PRG.WebMarket.Backend.Domain\\PRG.WebMarket.Backend.Domain.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.domain\\contracts\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66DCB0-DB6F-4284-B93B-5E36D99DB208}|PRG.WebMarket.Backend.Domain\\PRG.WebMarket.Backend.Domain.csproj|solutionrelative:prg.webmarket.backend.domain\\contracts\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137C45F8-A315-45A5-9BA7-8AF4C6FB52C8}|PRG.WebMarket.Backend.WebApi\\PRG.WebMarket.Backend.WebApi.csproj|solutionrelative:prg.webmarket.backend.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BC5145-0384-44B1-A32C-AE939593E47D}|PRG.WebMarket.Backend.Business\\PRG.WebMarket.Backend.Business.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.business\\registration\\businessregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BC5145-0384-44B1-A32C-AE939593E47D}|PRG.WebMarket.Backend.Business\\PRG.WebMarket.Backend.Business.csproj|solutionrelative:prg.webmarket.backend.business\\registration\\businessregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12852543-24D5-4EC6-8AA5-3F0C60B3E878}|PRG.WebMarket.Backend.Application\\PRG.WebMarket.Backend.Application.csproj|c:\\users\\pedro\\onedrive\\escritorio\\webmarket clean architecture\\prg.webmarket.backend\\prg.webmarket.backend.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12852543-24D5-4EC6-8AA5-3F0C60B3E878}|PRG.WebMarket.Backend.Application\\PRG.WebMarket.Backend.Application.csproj|solutionrelative:prg.webmarket.backend.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Dockerfile",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\Dockerfile",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T16:44:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfrastructureRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Registration\\InfrastructureRegistration.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Infrastructure\\Registration\\InfrastructureRegistration.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Registration\\InfrastructureRegistration.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Infrastructure\\Registration\\InfrastructureRegistration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:26:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Application\\Registration\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Application\\Registration\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Application\\Registration\\ConfigurationManager.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Application\\Registration\\ConfigurationManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:21:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Application\\Features\\ProductHandler.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Application\\Features\\ProductHandler.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Application\\Features\\ProductHandler.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Application\\Features\\ProductHandler.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:01:53.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Business\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Business\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Business\\Services\\ProductService.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Business\\Services\\ProductService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:38:33.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T14:29:49.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:26:10.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:42:02.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-30T14:32:41.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MigrationManager.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Extensions\\MigrationManager.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\Extensions\\MigrationManager.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Extensions\\MigrationManager.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\Extensions\\MigrationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:34:05.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwaggerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Builders\\SwaggerBuilder.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\Builders\\SwaggerBuilder.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Builders\\SwaggerBuilder.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\Builders\\SwaggerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:34:49.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\appsettings.json",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:35:48.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250430143832_initial.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Migrations\\20250430143832_initial.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Infrastructure\\Migrations\\20250430143832_initial.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Migrations\\20250430143832_initial.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Infrastructure\\Migrations\\20250430143832_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:38:33.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:03:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Program.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:35:56.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Domain\\Contracts\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Domain\\Contracts\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Domain\\Contracts\\Services\\IOrderService.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Domain\\Contracts\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:29:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:10:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BusinessRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Business\\Registration\\BusinessRegistration.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Business\\Registration\\BusinessRegistration.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Business\\Registration\\BusinessRegistration.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Business\\Registration\\BusinessRegistration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:29:44.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PRG.WebMarket.Backend.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Escritorio\\WebMarket Clean Architecture\\PRG.WebMarket.Backend\\PRG.WebMarket.Backend.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "PRG.WebMarket.Backend.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:45:43.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.deps.json
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.runtimeconfig.json
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.pdb
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Application.dll
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Domain.dll
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Application.pdb
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Domain.pdb
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebM.3B7B1BCE.Up2Date
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\refint\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.pdb
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.genruntimeconfig.cache
+C:\Users\pedro\source\repos\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\ref\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.deps.json
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.pdb
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Application.dll
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Domain.dll
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Application.pdb
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\bin\Debug\net8.0\PRG.WebMarket.Backend.Domain.pdb
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebM.3B7B1BCE.Up2Date
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\refint\PRG.WebMarket.Backend.Infrastructure.dll
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.pdb
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\PRG.WebMarket.Backend.Infrastructure.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Escritorio\WebMarket Clean Architecture\PRG.WebMarket.Backend\PRG.WebMarket.Backend.Infrastructure\obj\Debug\net8.0\ref\PRG.WebMarket.Backend.Infrastructure.dll

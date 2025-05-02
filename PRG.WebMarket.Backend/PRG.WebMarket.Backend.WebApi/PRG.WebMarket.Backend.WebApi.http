@@ -1,0 +1,6 @@
+@PRG.WebMarket.Backend.WebApi_HostAddress = http://localhost:5263
+
+GET {{PRG.WebMarket.Backend.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

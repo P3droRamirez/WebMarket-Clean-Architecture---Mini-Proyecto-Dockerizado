@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gscDX2ybcWKw9NWAJLI3M0PaddvXKPM6WZJNzlZTF6k=",
+  "Source": "PRG.WebMarket.Backend.WebApi",
+  "BasePath": "_content/PRG.WebMarket.Backend.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

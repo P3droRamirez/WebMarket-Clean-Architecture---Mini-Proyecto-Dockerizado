@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PRG.WebMarket.Backend.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.OrderController.CreateOrder(PRG.WebMarket.Backend.Domain.Model.OrderModel)">
+            <summary>
+            Crea una nueva orden de compra
+            </summary>
+            <param name="model"></param>
+            <returns>Respuesta indicando el éxito o fallo de la operación</returns>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.OrderController.GetAllOrders">
+            <summary>
+            Obtiene todas las ordenes
+            </summary>
+            <returns>Lista con todas las ordenes</returns>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.OrderController.GetOrderById(System.Int32)">
+            <summary>
+            Obtiene una orden por ID
+            </summary>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.ProductController.GetAllProducts">
+            <summary>
+            Obtiene todos los productos
+            </summary>
+            <returns>Lista completa de produtos existentes</returns>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.ProductController.GetProductById(System.Int32)">
+            <summary>
+            Busca un producto por su id.
+            </summary>
+            <param name="id"></param>
+            <returns>Producto con el id proporcionado</returns>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.ProductController.PostProduct(PRG.WebMarket.Backend.Domain.Model.ProductModel)">
+            <summary>
+            Crea un nuevo Producto
+            </summary>
+            <param name="model">El ProductModel recibido como request</param>
+            <returns>Codigo de respuesta con el mensaje de exito o fracaso de la operación</returns>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.ProductController.DeleteProduct(System.Int32)">
+            <summary>
+            Elimina un Producto
+            </summary>
+            <param name="model"></param>
+            <returns>Codigo de respuesta con el mensaje de exito o fracaso de la operación</returns>
+        </member>
+        <member name="M:PRG.WebMarket.Backend.WebApi.Controllers.ProductController.UpdateProducts(PRG.WebMarket.Backend.Domain.Model.ProductModel,System.Int32)">
+            <summary>
+            Actualiza un producto
+            </summary>
+            <param name="model"></param>
+            <param name="id"></param>
+            <returns>Codigo de respuesta con el mensaje de exito o fracaso de la operación</returns>
+        </member>
+    </members>
+</doc>
