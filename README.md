@@ -119,7 +119,11 @@ docker-compose restart prg.webmarket.backend.webapi
 
 ---
 
+## 🎥 Demostración  
 
+Aquí puedes ver la aplicación en funcionamiento:  
+
+![Demo de la aplicación](./assets/Demo.PRGWebMarketFrontend.gif)
 
 ---
 
